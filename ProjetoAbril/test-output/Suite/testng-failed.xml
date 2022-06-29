@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="grid_paralelo.InvokedMethodListener"/>
+  </listeners>
+  <test thread-count="1" name="cenarios_paralelo._003CompraDebitoAutomaticoVeja" parallel="methods">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="cenarios_paralelo._003CompraDebitoAutomaticoVeja">
+        <methods>
+          <include name="_003_CompraDebitoAutomaticoVeja"/>
+        </methods>
+      </class> <!-- cenarios_paralelo._003CompraDebitoAutomaticoVeja -->
+    </classes>
+  </test> <!-- cenarios_paralelo._003CompraDebitoAutomaticoVeja -->
+  <test name="cenarios_paralelo._003CompraDebitoAutomaticoVeja(failed)" parallel="methods">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="cenarios_paralelo._003CompraDebitoAutomaticoVeja">
+        <methods>
+          <include name="_003_CompraDebitoAutomaticoVeja"/>
+        </methods>
+      </class> <!-- cenarios_paralelo._003CompraDebitoAutomaticoVeja -->
+    </classes>
+  </test> <!-- cenarios_paralelo._003CompraDebitoAutomaticoVeja(failed) -->
+</suite> <!-- Failed suite [Suite] -->

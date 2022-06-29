@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [ProjetoExemplo]">
+  <parameter name="browser" value="chrome70"/>
+  <parameter name="version" value="70"/>
+  <parameter name="platform" value="windows"/>
+  <test name="Chrome 70 - Windows">
+    <parameter name="browser" value="chrome70"/>
+    <parameter name="version" value="70"/>
+    <parameter name="platform" value="windows"/>
+    <classes>
+      <class name="cenarios._003CompraDebitoAutomaticoVeja"/>
+      <class name="cenarios._004CompraBoletoBancarioVeja"/>
+      <class name="cenarios._005LoginOrgBlockFechadoWEB"/>
+      <class name="cenarios._006CompraDebitoAutomaticoQR"/>
+      <class name="cenarios._007CompraBoletoBancarioQR"/>
+      <class name="cenarios._008TesteAssineAbrilDebito"/>
+      <class name="cenarios._009TesteAssineAbrilBoleto"/>
+    </classes>
+  </test> <!-- Chrome 70 - Windows -->
+</suite> <!-- Failed suite [ProjetoExemplo] -->
