@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename compilation unit &apos;cenarios._002LoginOrgânicoTopoHomeWEB.java&apos; to &apos;_002LoginOrganicoTopoHomeWEB.java&apos;&#x0D;&#x0A;- Original project: &apos;ProjetoAbril&apos;&#x0D;&#x0A;- Original element: &apos;cenarios._002LoginOrgânicoTopoHomeWEB.java&apos;&#x0D;&#x0A;- Renamed element: &apos;cenarios._002LoginOrganicoTopoHomeWEB.java&apos;" description="Rename compilation unit &apos;_002LoginOrgânicoTopoHomeWEB.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;cenarios{_002LoginOrgânicoTopoHomeWEB.java" name="_002LoginOrganicoTopoHomeWEB.java" references="false" stamp="1642796145112" version="1.0"/>
-</session>

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;Indexados.Indexados_Google&apos; to &apos;_016Indexados_Google&apos;&#x0D;&#x0A;- Original project: &apos;ProjetoAbril&apos;&#x0D;&#x0A;- Original element: &apos;Indexados.Indexados_Google&apos;&#x0D;&#x0A;- Renamed element: &apos;Indexados._016Indexados_Google&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Indexados_Google&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Indexados{Indexados_Google.java[Indexados_Google" matchStrategy="1" name="_016Indexados_Google" qualified="false" references="true" similarDeclarations="false" stamp="1643915908928" textual="false" version="1.0"/>
-</session>
