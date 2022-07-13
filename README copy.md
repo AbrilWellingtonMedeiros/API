@@ -1,4 +1,4 @@
-## :computer: O Projeto
+## :computer: O Projeto Grupo Abril Poc circle CI
 
 demoDetoxRN - APP feito exclusivamente para exibir o funcionamento do framework **Detox**
 em projetos em React Native

@@ -23,7 +23,8 @@ git clone https://github.com/Bug-In-Prod/demoDetoxRN.git
 Após realizar o clone acesse a pasta do projeto:
 
 ```git
-cd demoDetoxRN
+cd demoDetoxRNyarn android
+
 ````
 
 Logo em seguida digite o comando __*yarn*__ para baixar e atualizar as dependências do projeto
@@ -55,6 +56,8 @@ Existem 4 scripts criados dentro do **package.json** para ajudar na execução d
 Para Android
 
 ```terminal
+
+n funciona !!!!!!!!!
 yarn build:android
 ````
 
